@@ -124,6 +124,10 @@ apis:
       application monitoring and transaction tracing for enterprise and
       mainframe workloads.
 common:
+  - type: GitHubOrganization
+    url: https://github.com/CATechnologies
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/ca-technologies
   - type: Website
     url: https://www.broadcom.com/
   - type: LegacyWebsite
