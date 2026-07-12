@@ -125,6 +125,8 @@ apis:
       application monitoring and transaction tracing for enterprise and
       mainframe workloads.
 common:
+  - type: DomainSecurity
+    url: security/ca-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/CATechnologies
   - type: LinkedIn
