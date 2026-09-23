@@ -1,7 +1,9 @@
 ---
 title: Press Releases Archive - California Federation of Labor ...
 url: https://calaborfed.org/press-releases/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"CA" press release artificial intelligence'
 position: 5
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Governor Newsom signs first-of-its-kind executive order to ...
 url: https://www.gov.ca.gov/2026/05/21/governor-newsom-signs-first-of-its-kind-executive-order-to-prepare-workers-and-businesses-for-potential-ai-disruption/
-date: '2026-05-25'
+published: '2026-05-21'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"CA" press release artificial intelligence'
 position: 1
 source: serpapi-google
