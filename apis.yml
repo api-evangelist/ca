@@ -80,12 +80,12 @@ apis:
   name: Broadcom Rally (Agile Central)
   tags:
   - Agile
-  - Portfolio-Management
+  - Project Portfolio Management
   - Project Management
   - SAFe
   tags_raw:
   - Agile
-  - Portfolio Management
+  - Project Portfolio Management
   - Project Management
   - SAFe
   humanURL: https://rally1.rallydev.com/slm/doc/webservice/
@@ -100,12 +100,12 @@ apis:
   name: Broadcom Clarity PPM
   tags:
   - Investment Planning
-  - Portfolio-Management
+  - Project Portfolio Management
   - Project Management
   - Resource Management
   tags_raw:
   - Investment Planning
-  - Portfolio Management
+  - Project Portfolio Management
   - Project Management
   - Resource Management
   humanURL: https://techdocs.broadcom.com/us/en/ca-enterprise-software/business-management/clarity.html
