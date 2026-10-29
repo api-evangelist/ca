@@ -1,4 +1,4 @@
-# CA Technologies (ca)
+# CA Technologies (Broadcom)
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,127 +66,109 @@
 
 CA Technologies (originally Computer Associates) was a major enterprise software vendor focused on infrastructure management, DevOps, security, and mainframe software. It was acquired by Broadcom in November 2018 and its products are now part of Broadcom's Enterprise Software Division, including Layer 7 API Management, AppDynamics (later spun out to Cisco), DX Application Performance Management, Rally / Agile Central, Clarity PPM, BlazeMeter, AutoSys workload automation, and mainframe management suites. The primary developer portal is developer.broadcom.com.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/ca/refs/heads/main/apis.yml)
+**Areas:** API Management · Application Performance · DevOps · Enterprise Software · Infrastructure · Mainframe · Monitoring · Security · Fortune 1000
 
-## Scope
+## CA Technologies (Broadcom) on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for CA Technologies (Broadcom) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ca/](https://apis.io/providers/ca/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (6)
 
- - API Management, DevOps, Enterprise Software, Infrastructure, Mainframe, Security, Monitoring, Application Performance
+- [Broadcom Layer 7 API Management (CA API Gateway)](https://apis.io/apis/ca/broadcom-layer7-api-management/) — Enterprise API management platform (formerly CA API Management / Layer 7) that provides API gateways, developer portals, policy enforcement, and identity…
+- [Broadcom BlazeMeter](https://apis.io/apis/ca/broadcom-blazemeter/) — Continuous testing platform for API, web, mobile, and performance testing. Exposes a REST API for orchestrating tests, reports, and service virtualization.
+- [Broadcom Rally (Agile Central)](https://apis.io/apis/ca/broadcom-rally-agile-central/) — Rally (formerly CA Agile Central) is an enterprise agile project and portfolio management platform. Its Web Services API allows programmatic access to…
+- [Broadcom Clarity PPM](https://apis.io/apis/ca/broadcom-clarity/) — Clarity (formerly CA PPM) is a strategic portfolio management platform for planning investments, managing resources, and tracking project and product…
+- [Broadcom Automic / AutoSys Workload Automation](https://apis.io/apis/ca/broadcom-automic-autosys/) — Enterprise workload automation and orchestration product family (Automic, AutoSys) used to schedule and run business-critical jobs across mainframe,…
+- [Broadcom DX Application Performance Management](https://apis.io/apis/ca/broadcom-dx-apm/) — DX APM (formerly CA APM / Introscope / Wily) provides deep application monitoring and transaction tracing for enterprise and mainframe workloads.
 
-## Timestamps
+### Published properties
 
-- **Created:** 2026-03-23
-- **Modified:** 2026-04-23
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### Broadcom Layer 7 API Management (CA API Gateway)
-Enterprise API management platform (formerly CA API Management / Layer 7) that provides API gateways, developer portals, policy enforcement, and identity integration for hybrid and multi-cloud deployments.
+Authentication, trust centre, and vulnerability disclosure.
 
-**Human URL:** [https://techdocs.broadcom.com/us/en/ca-enterprise-software/layer7-api-management.html](https://techdocs.broadcom.com/us/en/ca-enterprise-software/layer7-api-management.html)
+- [Ca Domain Security](https://apis.io/security/ca/ca-domain-security/)
 
-#### Tags:
+#### Plans and pricing (1)
 
- - API Management, API Gateway, Security, Policy Enforcement
+Published plans, tiers and prices.
 
-#### Properties
+- [Ca Plans Pricing](https://apis.io/plans/ca/ca-plans-pricing/)
 
-- [Documentation](https://techdocs.broadcom.com/us/en/ca-enterprise-software/layer7-api-management.html)
-- [ProductPage](https://www.broadcom.com/products/software/api-management)
+#### Rate limits (1)
 
-### Broadcom BlazeMeter
-Continuous testing platform for API, web, mobile, and performance testing. Exposes a REST API for orchestrating tests, reports, and service virtualization.
+Published request limits.
 
-**Human URL:** [https://www.blazemeter.com/](https://www.blazemeter.com/)
+- [Ca Rate Limits](https://apis.io/rate-limits/ca/ca-rate-limits/)
 
-#### Tags:
+#### FinOps (1)
 
- - Performance Testing, Load Testing, API Testing, Service Virtualization
+What the API costs to run, by operation.
 
-#### Properties
+- [Ca Finops](https://apis.io/finops/ca/ca-finops/)
 
-- [Documentation](https://www.blazemeter.com/api-docs)
-- [API](https://a.blazemeter.com/api/v4)
+## Where to find this API
 
-### Broadcom Rally (Agile Central)
-Rally (formerly CA Agile Central) is an enterprise agile project and portfolio management platform. Its Web Services API allows programmatic access to workspaces, projects, stories, iterations, defects, and releases.
-
-**Human URL:** [https://rally1.rallydev.com/slm/doc/webservice/](https://rally1.rallydev.com/slm/doc/webservice/)
-
-#### Tags:
-
- - Agile, Project Management, Portfolio Management, SAFe
-
-#### Properties
-
-- [Documentation](https://rally1.rallydev.com/slm/doc/webservice/)
-- [API](https://rally1.rallydev.com/slm/webservice/v2.0)
-
-### Broadcom Clarity PPM
-Clarity (formerly CA PPM) is a strategic portfolio management platform for planning investments, managing resources, and tracking project and product delivery across the enterprise.
-
-**Human URL:** [https://techdocs.broadcom.com/us/en/ca-enterprise-software/business-management/clarity.html](https://techdocs.broadcom.com/us/en/ca-enterprise-software/business-management/clarity.html)
-
-#### Tags:
-
- - Project Management, Portfolio Management, Investment Planning, Resource Management
-
-#### Properties
-
-- [Documentation](https://techdocs.broadcom.com/us/en/ca-enterprise-software/business-management/clarity.html)
-
-### Broadcom Automic / AutoSys Workload Automation
-Enterprise workload automation and orchestration product family (Automic, AutoSys) used to schedule and run business-critical jobs across mainframe, distributed, and cloud environments.
-
-**Human URL:** [https://techdocs.broadcom.com/us/en/ca-enterprise-software/intelligent-automation/automic-automation.html](https://techdocs.broadcom.com/us/en/ca-enterprise-software/intelligent-automation/automic-automation.html)
-
-#### Tags:
-
- - Workload Automation, Batch Processing, Orchestration
-
-#### Properties
-
-- [Documentation](https://techdocs.broadcom.com/us/en/ca-enterprise-software/intelligent-automation/automic-automation.html)
-
-### Broadcom DX Application Performance Management
-DX APM (formerly CA APM / Introscope / Wily) provides deep application monitoring and transaction tracing for enterprise and mainframe workloads.
-
-**Human URL:** [https://techdocs.broadcom.com/us/en/ca-enterprise-software/it-operations-management/dx-application-performance-management-saas.html](https://techdocs.broadcom.com/us/en/ca-enterprise-software/it-operations-management/dx-application-performance-management-saas.html)
-
-#### Tags:
-
- - APM, Monitoring, Observability
-
-#### Properties
-
-- [Documentation](https://techdocs.broadcom.com/us/en/ca-enterprise-software/it-operations-management/dx-application-performance-management-saas.html)
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.broadcom.com/)
-- [LegacyWebsite](https://www.ca.com/)
-- [Portal](https://developer.broadcom.com/)
 - [Documentation](https://techdocs.broadcom.com/)
 - [Support](https://support.broadcom.com/)
-- [Community](https://community.broadcom.com/)
-- [Products](https://www.broadcom.com/products)
-- [About](https://www.broadcom.com/company/about-us)
-- [Careers](https://www.broadcom.com/company/careers)
-- [InvestorRelations](https://investors.broadcom.com/)
-- [PressReleases](https://investors.broadcom.com/news-releases)
-- [Newsroom](https://www.broadcom.com/company/news)
-- [SecurityPolicy](https://www.broadcom.com/support/security-center)
-- [TermsOfService](https://www.broadcom.com/company/legal/terms-of-use)
-- [PrivacyPolicy](https://www.broadcom.com/company/legal/privacy/policy)
-- [Sitemap](https://www.broadcom.com/company/sitemap)
+- [Terms of service](https://www.broadcom.com/company/legal/terms-of-use)
+- [Privacy policy](https://www.broadcom.com/company/legal/privacy/policy)
+- [GitHub](https://github.com/CATechnologies)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** API Evangelist
+**Kin Score 19.4** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** info@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 63.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 28.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ca/](https://apis.io/providers/ca/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for CA Technologies (Broadcom): the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ca/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
